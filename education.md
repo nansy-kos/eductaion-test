@@ -1,3 +1,5 @@
 Testing sync of the projects
 
-And one more time. 
+And one more time.
+
+Тестируем добавление.
